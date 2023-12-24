@@ -1,5 +1,5 @@
 
-Next.js,React,Tailwin css,Material UI, Responsive Tasarım,Mongo DB
+Next.js,React,Tailwin css,Material UI, Responsive Tasarım,Mongo DB,Redux
 
 https://github.com/mirackurnaz/responsive-food-react-project/assets/78266140/44520fde-3db5-4413-80e4-5919574847f5
 
